@@ -1,4 +1,4 @@
-# tel-input-reka-ui
+# Tel Input Reka-UI
 
 International telephone input component for Vue 3, built with [Reka UI](https://reka-ui.com) primitives. A modern reimplementation of [vue-tel-input](https://github.com/iamstevendao/vue-tel-input) designed for shadcn-vue projects.
 
